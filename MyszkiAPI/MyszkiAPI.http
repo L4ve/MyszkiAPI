@@ -1,0 +1,6 @@
+@MyszkiAPI_HostAddress = http://localhost:5231
+
+GET {{MyszkiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
